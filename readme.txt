@@ -1,6 +1,6 @@
 === AA Condition Plugin ===
 	Contributors: aaextension
-	Donate link: http://webdesigncr3ator.com
+	Donate link: http://webdesigncr3ator.com/donate-aa-extension
 	Tags: aaextension, conditon, login, shortcode, aa-condition
 	Requires at least: 3.8
 	Tested up to: 4.0
