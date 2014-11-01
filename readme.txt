@@ -33,17 +33,11 @@ This plugin is specially made for people who wants to put some condition accordi
 1. Install as regular WordPress plugin.<br />
 2. Go your plugin setting via WordPress Dashboard and find "<strong>AA Condition Plugin</strong>" activate it.<br />
 
-
 <br />
-
 
 and shortcode for you </strong> `[aa_condition_button]`<br />
 
 then paste this shortcode anywhere in your page to display your custom condition<br />
-
-
-
-
 
 
 
