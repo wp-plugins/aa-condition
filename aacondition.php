@@ -7,7 +7,7 @@
 Plugin Name: AA Condition
 Plugin URI: http://wordpress.org/plugins/aa-condition/
 Description: It is a Custom Condition Plugin made by AA Extension . Just use shortcode [aa_condition_button] and then you can replace your condition from plugin file.
-Author: A. Roy / A. Mahmud
+Author: aaextention
 Version: 1.0
 Author URI: http://webdesigncr3ator.com
 */
